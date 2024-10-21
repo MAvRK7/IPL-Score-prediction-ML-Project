@@ -22,3 +22,6 @@ Feature Engineering: Categorical features are one-hot encoded, and date columns 
 Model Training: Three machine learning models, namely Linear Regression, Random Forest, and Support Vector Machine, are trained using the selected features.
 Model Evaluation: Various evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared are used to assess the performance of each model.
 Prediction: User-friendly functions are created to accept input values and predict the total runs scored using the trained models.
+
+
+This work has been accepted by and presented at THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) and will be published on IEEE Xplore soon
