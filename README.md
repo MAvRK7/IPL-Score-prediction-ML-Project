@@ -1,6 +1,6 @@
 # Data Driven Cricket: A Machine Learning Approach to IPL Score Prognostication
 
-This work has been published in the 15th International Conference on Computing and Networking Technology (ICCNT) held at IIT Mandi in June 2024
+This work was presented in the 15th International Conference on Computing and Networking Technology (ICCNT) held at IIT Mandi in June 2024. It has been published. 
 View on IEEE Xplore: https://ieeexplore.ieee.org/document/10724464
 
 Introduction:
