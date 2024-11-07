@@ -1,4 +1,8 @@
 # Data Driven Cricket: A Machine Learning Approach to IPL Score Prognostication
+
+This work is published in the 15th International Conference on Computing and Networking Technology (ICCNT) held at IIT Mandi in June 2024
+View on IEEE Xplore: https://ieeexplore.ieee.org/document/10724464
+
 Introduction:
 This project focuses on predicting scores in Indian Premier League (IPL) matches using machine learning models. By leveraging historical match data, including various features such as batting team, bowling team, runs, wickets, overs, runs in the last 5 overs, and wickets in the last 5 overs, the aim is to forecast the total runs scored in a cricket match. Three different machine learning algorithms, namely Linear Regression, Random Forest, and Support Vector Machine (SVM), are employed to analyze the data and make predictions.
 
