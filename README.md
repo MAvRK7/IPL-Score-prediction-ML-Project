@@ -28,4 +28,3 @@ Model Evaluation: Various evaluation metrics such as Mean Absolute Error (MAE), 
 Prediction: User-friendly functions are created to accept input values and predict the total runs scored using the trained models.
 
 
-This work has been accepted by and presented at THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT) and will be published on IEEE Xplore soon
