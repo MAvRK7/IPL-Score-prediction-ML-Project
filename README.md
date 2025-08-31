@@ -103,5 +103,5 @@ Data was sourced from **reliable cricket databases** to ensure accuracy and cred
 ---
 
 📄 **Publication**:  
-Presented at ICCNT 2024, IIT Mandi.  
+Presented at ICCCNT 2024, IIT Mandi.  
 Published on [IEEE Xplore](https://ieeexplore.ieee.org/document/10724464)
