@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)]() 
 [![Framework](https://img.shields.io/badge/Framework-PyTorch%20%7C%20Scikit--Learn-orange)]() 
+[![Conference](https://img.shields.io/badge/Presented%20at-ICCCNT--2025-blueviolet)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 ---
