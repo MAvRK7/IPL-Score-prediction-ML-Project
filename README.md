@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 This project presents a **machine learning‑based system** for predicting scores in Indian Premier League (IPL) matches.  
-It was **presented at the 15th International Conference on Computing and Networking Technology (ICCNT)**, IIT Mandi, June 2024, and is **published on IEEE Xplore**.  
+It was **presented at the 15th International Conference on Computing and Networking Technology (ICCCNT)**, IIT Mandi, June 2024, and is **published on IEEE Xplore**.  
 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10724464)
 
 By leveraging **historical IPL match data** — including batting/bowling teams, runs, wickets, overs, and recent over performance — the system forecasts **total runs scored** using three different ML algorithms:
